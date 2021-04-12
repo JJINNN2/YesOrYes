@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yes or Yes</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="join"><u>어서오세요! 처음 오셨나요?</u></string>
+    <string name="kakao_app_key">611c17aba68450c3816994abc37de982</string>
+
+</resources>

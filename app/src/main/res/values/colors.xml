@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="myWhite">#F6F6F6</color>
+	<color name="myGrayLight">#EAEDF3</color>
+	<color name="myGrayMiddle">#C0C3C8</color>
+	<color name="myDarkLight">#353C59</color>
+	<color name="myDarkDeep">#21263A</color>
+	<color name="myBlue">#96B3FF</color>
+	<color name="myRed">#FE9599</color>
+	<color name="myRedLight">#FFCACE</color>
+</resources>
